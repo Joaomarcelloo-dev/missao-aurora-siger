@@ -1,0 +1,19 @@
+--- INICIANDO VERIFICAÇÃO DE TELEMETRIA ---
+
+[APROVADO] Temperatura interna      -> 22.5 °C (faixa: 18.0 a 26.0 °C)
+[APROVADO] Integridade estrutural   -> 1 (esperado: 1)
+[APROVADO] Nível de energia         -> 85.0% (mínimo: acima de 80.0%)
+[APROVADO] Pressão dos tanques      -> 42.0 atm (faixa: 30.0 a 50.0 atm)
+[APROVADO] Módulos críticos         -> OK (esperado: OK)
+[REGISTRO] Temperatura externa      -> -45.0 °C (informativo, não bloqueia o lançamento)
+
+STATUS FINAL: PRONTO PARA DECOLAR
+
+--- ANÁLISE ENERGÉTICA ---
+Capacidade total ............: 100,000.00 kWh
+Carga atual (85.0%) .........: 85,000.00 kWh
+Perdas térmicas (5%) ........: 4,250.00 kWh
+Consumo na decolagem ........: 30,000.00 kWh
+Consumo total de lançamento .: 34,250.00 kWh
+AUTONOMIA INICIAL ...........: 50,750.00 kWh
+Reserva sobre a carga atual .: 59.71%

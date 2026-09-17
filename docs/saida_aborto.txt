@@ -1,0 +1,10 @@
+--- INICIANDO VERIFICAÇÃO DE TELEMETRIA ---
+
+[REPROVADO] Temperatura interna      -> 31.0 °C (faixa: 18.0 a 26.0 °C)
+[REPROVADO] Integridade estrutural   -> 0 (esperado: 1)
+[REPROVADO] Nível de energia         -> 62.0% (mínimo: acima de 80.0%)
+[REPROVADO] Pressão dos tanques      -> 57.0 atm (faixa: 30.0 a 50.0 atm)
+[REPROVADO] Módulos críticos         -> FALHA (esperado: OK)
+[REGISTRO] Temperatura externa      -> -45.0 °C (informativo, não bloqueia o lançamento)
+
+STATUS FINAL: DECOLAGEM ABORTADA
